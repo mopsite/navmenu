@@ -1,0 +1,35 @@
+.container.light {
+  --text-color: #7c8b97;
+  --bg-color: #fff;
+  --shadow-color: rgba(0, 0, 0, 0.25);
+  --logo-color: #000;
+  --input-color: #fff;
+  --input-bg-color: #a9b1bc;
+  --active-color: #fff;
+  --active-bg-color: #2169f6;
+  --divider-color: #e7eaee;
+}
+
+.container.dark {
+  --text-color: #c3c2c7;
+  --bg-color: #252529;
+  --shadow-color: rgba(0, 0, 0, 0.7);
+  --logo-color: #fff;
+  --input-color: #c3c2c7;
+  --input-bg-color: #41404a;
+  --active-color: #252529;
+  --active-bg-color: #fff;
+  --divider-color: #323236;
+}
+
+.container.red {
+  --text-color: #f4f4f6;
+  --bg-color: #ed5454;
+  --shadow-color: rgba(90, 10, 10, 0.55);
+  --logo-color: #fff;
+  --input-color: #f4f4f5;
+  --input-bg-color: #f17985;
+  --active-color: #fff;
+  --active-bg-color: #97202c;
+  --divider-color: #eb6b78;
+}
