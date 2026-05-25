@@ -13,7 +13,6 @@ export default defineConfig({
     }
   },
   base: process.env.NODE_ENV === 'production' ? '/navmenu/' : '/',
-
   build: {
     assetsDir: 'assets',
     outDir: 'dist'
